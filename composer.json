@@ -1,0 +1,12 @@
+{
+    "name": "project/app",
+    "description": "n",
+    "type": "n",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\" : "_classes/Libs/",
+            "Helpers\\" : "_classes/Helpers/"
+        }
+    }
+}
